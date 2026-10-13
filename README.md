@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing survey responses from 630 data professionals, providing insights into salary distributions, job satisfaction, preferred programming languages, and industry entry difficulty.
 
-![Dashboard Preview](Dashboard Preview.png)
+![Dashboard Preview](DashboardPreview.png)
 
 ---
 
